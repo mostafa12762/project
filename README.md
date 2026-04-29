@@ -44,7 +44,7 @@ After running the script, it generates:
 
 ## 🎯 Purpose
 
-The goal is to compare different ways of handling missing data and see how each method affects the dataset.
+The goal is to compare different ways of handling missing data and see how each method affects the dataset..
 
 ---
 
